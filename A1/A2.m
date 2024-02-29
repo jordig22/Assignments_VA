@@ -29,9 +29,9 @@ end
 b = [0 
     0
     0
-    50
-    -20
-    0];
+    0.5
+    0
+    -0.2];
 A = uCenteredMemory;
 
 X = A\b;
